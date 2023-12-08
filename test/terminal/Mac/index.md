@@ -60,10 +60,6 @@
 
 > Respuesta:
 
-- ¿Para qué sirve el comando `cd` ..?
-
-> Respuesta:
-
 - ¿Para qué sirve el comando `ls`?
 
 > Respuesta:
