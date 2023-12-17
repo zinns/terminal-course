@@ -41,7 +41,7 @@
 
     > example: `skyline added` -> `[imageName] -> added`.
 
-12. Agregar a Edgar o Andrés como Reviewer
+12.
 
 13. Track the PR (updates, comments, changes).
 
