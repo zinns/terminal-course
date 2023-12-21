@@ -12,10 +12,6 @@
 
 > Answer:
 
-- What is the `cd` command for?
-
-> Answer:
-
 - What is the `ls` command for?
 
 > Answer:
