@@ -12,10 +12,6 @@
 
 > Answer:
 
-- What is the `cd` command for?
-
-> Answer:
-
 - What is the `ls` command for?
 
 > Answer:
@@ -61,10 +57,6 @@
 > Respuesta:
 
 - ¿Para qué sirve el comando `cd`?
-
-> Respuesta:
-
-- ¿Para qué sirve el comando `cd` ..?
 
 > Respuesta:
 
