@@ -35,17 +35,15 @@
 
 8. Save, comment and upload changes to GitHub.
 
-10. Save, add, comment and upload changes to **GitHub**.
-
-11. Create a PR pointing to `develop-[name]` with title.
+9. Create a PR pointing to `develop-[name]` with title.
 
     > example: `skyline added` -> `[imageName] -> added`.
 
-12. Agregar a Edgar o Andrés como Reviewer
+10. Agregar a Edgar o Andrés como Reviewer
 
-13. Track the PR (updates, comments, changes).
+11. Track the PR (updates, comments, changes).
 
-14. Download at least 2 more images and repeat all the steps for each one.
+12. Download at least 2 more images and repeat all the steps for each one.
 ---
 
 ### Instrucciones
@@ -74,14 +72,12 @@
 
 8. Guardar, comentar y subir cambios a GitHub.
 
-9. Guardar, agregar, comentar y subir cambios a **GitHub**.
-
-10. Crear un PR apuntando a `develop-[name]` con título.
+9. Crear un PR apuntando a `develop-[name]` con título.
 
     > ejemplo: `skyline agregado` -> `[nombreDeImagen] -> agregado`
 
-11. Agregar a Edgar o Andrés como Reviewer
+10. Agregar a Edgar o Andrés como Reviewer
 
-12. Dar seguimiento al PR (actualizaciones, comentarios, cambios).
+11. Dar seguimiento al PR (actualizaciones, comentarios, cambios).
 
-13. Bajar al menos 2 imagenes más y repetir los pasos en cada una.
+12. Bajar al menos 2 imagenes más y repetir los pasos en cada una.

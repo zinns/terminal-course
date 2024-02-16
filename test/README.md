@@ -1,5 +1,3 @@
-![zinns.io](zinns.png)
-
 [Español](#instrucciones)
 
 [English](#instructions)

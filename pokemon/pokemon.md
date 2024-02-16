@@ -1,7 +1,4 @@
-![zinns.io](zinns.png)
-
-
-[Español](#ejercicio-git-pokemon)
+Español](#ejercicio-git-pokemon)
 
 [English](#instructions)
 
